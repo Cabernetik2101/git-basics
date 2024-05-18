@@ -8,3 +8,5 @@ age = int(input("Write you age: "))
 print(age)
 if age > 18:
     print("Доступ открыт!")
+else:
+    print("Доступ закрыт!")
